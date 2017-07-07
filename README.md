@@ -1,2 +1,2 @@
 # DES-CBC-pkcs5padding
-iOS CBC加密
+iOS DES/CBC/PKCS5padding 加密  JAVA后台
